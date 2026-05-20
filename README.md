@@ -1,6 +1,6 @@
 # EzPay
 
-EzPay is a Stellar-based payment infrastructure that enables customers to pay merchants using stablecoins and fiat-compatible settlement flows — even if the merchant is not registered on the platform.
+EzPay is a Stellar-based payment infrastructure that enables customers to pay merchants using stablecoins and fiat-compatible settlement flows even if the merchant is not registered on the platform.
 
 The goal of EzPay is to make digital payments as simple as traditional bank transfers by combining fast Stellar settlement, QR-based payments, stablecoins, and fiat payout infrastructure into one seamless experience.
 
