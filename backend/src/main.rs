@@ -1,4 +1,5 @@
 mod config;
+mod models;
 
 use axum::{routing::get, Json, Router};
 use serde::Serialize;
